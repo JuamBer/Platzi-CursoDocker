@@ -1,7 +1,23 @@
-# Curso de Docker en Platzi
+# Curso De Docker
 
-Ésta es una aplicación de ejemplo para el curso de Docker de Platzi por Guido
-Vilariño.
+Material realizado en el curso de "Docker de [platzi]()
 
-Encuentra más información en https://platzi.com, suscríbete al curso y aprende
-a usar Docker de manera profesional.
+## Tecnologías 🚀
+
+* **Docker** 
+
+## Pogramas Utilizados 📌
+
+* **VS Code**
+
+## Control De Versiones 📌
+
+* **Git y GitHub**
+
+## Autor ✒️
+
+* **Juan Sáez García** -  [Web Personal](https://juamber.com)
+
+## Certificación 🎓
+
+![Certificación]()
