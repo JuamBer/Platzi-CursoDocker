@@ -1,6 +1,6 @@
 # Curso De Docker
 
-Material realizado en el curso de "Docker de [platzi]()
+Material realizado en el curso de "Docker de [platzi](https://platzi.com/p/JuamBer/curso/2066-docker/diploma/detalle/)
 
 ## Tecnologías 🚀
 
@@ -20,4 +20,4 @@ Material realizado en el curso de "Docker de [platzi]()
 
 ## Certificación 🎓
 
-![Certificación]()
+![Certificación](https://github.com/JuamBer/Platzi-CursoDocker/blob/master/img-licencia/diploma-docker.jpg)
